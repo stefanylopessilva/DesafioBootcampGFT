@@ -1,0 +1,13 @@
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAlbumCopa\bin\Debug\netcoreapp3.1\DesafioAlbumCopa.exe
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAlbumCopa\bin\Debug\netcoreapp3.1\DesafioAlbumCopa.deps.json
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAlbumCopa\bin\Debug\netcoreapp3.1\DesafioAlbumCopa.runtimeconfig.json
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAlbumCopa\bin\Debug\netcoreapp3.1\DesafioAlbumCopa.runtimeconfig.dev.json
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAlbumCopa\bin\Debug\netcoreapp3.1\DesafioAlbumCopa.dll
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAlbumCopa\bin\Debug\netcoreapp3.1\DesafioAlbumCopa.pdb
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAlbumCopa\obj\Debug\netcoreapp3.1\DesafioAlbumCopa.csprojAssemblyReference.cache
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAlbumCopa\obj\Debug\netcoreapp3.1\DesafioAlbumCopa.AssemblyInfoInputs.cache
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAlbumCopa\obj\Debug\netcoreapp3.1\DesafioAlbumCopa.AssemblyInfo.cs
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAlbumCopa\obj\Debug\netcoreapp3.1\DesafioAlbumCopa.csproj.CoreCompileInputs.cache
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAlbumCopa\obj\Debug\netcoreapp3.1\DesafioAlbumCopa.dll
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAlbumCopa\obj\Debug\netcoreapp3.1\DesafioAlbumCopa.pdb
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAlbumCopa\obj\Debug\netcoreapp3.1\DesafioAlbumCopa.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAnimal\bin\Debug\netcoreapp3.1\DesafioAnimal.exe
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAnimal\bin\Debug\netcoreapp3.1\DesafioAnimal.deps.json
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAnimal\bin\Debug\netcoreapp3.1\DesafioAnimal.runtimeconfig.json
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAnimal\bin\Debug\netcoreapp3.1\DesafioAnimal.runtimeconfig.dev.json
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAnimal\bin\Debug\netcoreapp3.1\DesafioAnimal.dll
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAnimal\bin\Debug\netcoreapp3.1\DesafioAnimal.pdb
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAnimal\obj\Debug\netcoreapp3.1\DesafioAnimal.csprojAssemblyReference.cache
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAnimal\obj\Debug\netcoreapp3.1\DesafioAnimal.AssemblyInfoInputs.cache
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAnimal\obj\Debug\netcoreapp3.1\DesafioAnimal.AssemblyInfo.cs
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAnimal\obj\Debug\netcoreapp3.1\DesafioAnimal.csproj.CoreCompileInputs.cache
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAnimal\obj\Debug\netcoreapp3.1\DesafioAnimal.dll
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAnimal\obj\Debug\netcoreapp3.1\DesafioAnimal.pdb
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioAnimal\obj\Debug\netcoreapp3.1\DesafioAnimal.genruntimeconfig.cache

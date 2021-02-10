@@ -1,0 +1,13 @@
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioCalculoViagem\bin\Debug\netcoreapp3.1\DesafioCalculoViagem.exe
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioCalculoViagem\bin\Debug\netcoreapp3.1\DesafioCalculoViagem.deps.json
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioCalculoViagem\bin\Debug\netcoreapp3.1\DesafioCalculoViagem.runtimeconfig.json
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioCalculoViagem\bin\Debug\netcoreapp3.1\DesafioCalculoViagem.runtimeconfig.dev.json
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioCalculoViagem\bin\Debug\netcoreapp3.1\DesafioCalculoViagem.dll
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioCalculoViagem\bin\Debug\netcoreapp3.1\DesafioCalculoViagem.pdb
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioCalculoViagem\obj\Debug\netcoreapp3.1\DesafioCalculoViagem.csprojAssemblyReference.cache
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioCalculoViagem\obj\Debug\netcoreapp3.1\DesafioCalculoViagem.AssemblyInfoInputs.cache
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioCalculoViagem\obj\Debug\netcoreapp3.1\DesafioCalculoViagem.AssemblyInfo.cs
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioCalculoViagem\obj\Debug\netcoreapp3.1\DesafioCalculoViagem.csproj.CoreCompileInputs.cache
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioCalculoViagem\obj\Debug\netcoreapp3.1\DesafioCalculoViagem.dll
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioCalculoViagem\obj\Debug\netcoreapp3.1\DesafioCalculoViagem.pdb
+C:\Users\Stefany\source\repos\DesafioBootcamp\DesafioCalculoViagem\obj\Debug\netcoreapp3.1\DesafioCalculoViagem.genruntimeconfig.cache
